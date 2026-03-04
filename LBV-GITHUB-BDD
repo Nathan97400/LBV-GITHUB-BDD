@@ -1,4 +1,779 @@
 [
+  { 
+    "Marque":"YAMAHA", 
+    "Modèle":"DT 50", 
+    "Cylindrée (cc)":50, 
+    "Type (M/S/E)":"M", 
+    "Spéc/Génération":"Air Cooled - Cadre acier", 
+    "Coloris commercial":"Yellow/White", 
+    "Année début":1973, 
+    "Année fin":1985 
+  },
+  { 
+    "Marque":"YAMAHA", 
+    "Modèle":"DT 50", 
+    "Cylindrée (cc)":50, 
+    "Type (M/S/E)":"M", 
+    "Spéc/Génération":"Liquid Cooled - Cadre acier", 
+    "Coloris commercial":"Team Yamaha Blue", 
+    "Année début":1986, 
+    "Année fin":2000 
+  },
+
+  { 
+    "Marque":"YAMAHA", 
+    "Modèle":"DT 125", 
+    "Cylindrée (cc)":125, 
+    "Type (M/S/E)":"M", 
+    "Spéc/Génération":"Air Cooled - Cadre acier", 
+    "Coloris commercial":"Competition Yellow", 
+    "Année début":1973, 
+    "Année fin":1981 
+  },
+  { 
+    "Marque":"YAMAHA", 
+    "Modèle":"DT 125", 
+    "Cylindrée (cc)":125, 
+    "Type (M/S/E)":"M", 
+    "Spéc/Génération":"Liquid Cooled - Cadre acier", 
+    "Coloris commercial":"White/Red", 
+    "Année début":1982, 
+    "Année fin":1990 
+  },
+  { 
+    "Marque":"YAMAHA", 
+    "Modèle":"DT 125", 
+    "Cylindrée (cc)":125, 
+    "Type (M/S/E)":"M", 
+    "Spéc/Génération":"Cadre aluminium - Carburateur Keihin", 
+    "Coloris commercial":"Team Yamaha Blue", 
+    "Année début":1991, 
+    "Année fin":2002 
+  },
+  { 
+    "Marque":"YAMAHA", 
+    "Modèle":"DT 125", 
+    "Cylindrée (cc)":125, 
+    "Type (M/S/E)":"M", 
+    "Spéc/Génération":"Injection électronique (EFI)", 
+    "Coloris commercial":"Icon Blue", 
+    "Année début":2003, 
+    "Année fin":2006 
+  },
+
+  { 
+    "Marque":"YAMAHA", 
+    "Modèle":"DT 200", 
+    "Cylindrée (cc)":200, 
+    "Type (M/S/E)":"M", 
+    "Spéc/Génération":"Air Cooled - Cadre acier", 
+    "Coloris commercial":"Yellow/White", 
+    "Année début":1974, 
+    "Année fin":1984 
+  },
+  { 
+    "Marque":"YAMAHA", 
+    "Modèle":"DT 200", 
+    "Cylindrée (cc)":200, 
+    "Type (M/S/E)":"M", 
+    "Spéc/Génération":"Liquid Cooled - Cadre acier", 
+    "Coloris commercial":"White/Red", 
+    "Année début":1985, 
+    "Année fin":1995 
+  },
+  { 
+    "Marque":"YAMAHA", 
+    "Modèle":"DT 200", 
+    "Cylindrée (cc)":200, 
+    "Type (M/S/E)":"M", 
+    "Spéc/Génération":"Cadre aluminium - Carburateur Keihin", 
+    "Coloris commercial":"Team Yamaha Blue", 
+    "Année début":1996, 
+    "Année fin":2006 
+  },
+
+  { 
+    "Marque":"YAMAHA", 
+    "Modèle":"DTR 125", 
+    "Cylindrée (cc)":125, 
+    "Type (M/S/E)":"S", 
+    "Spéc/Génération":"Route / Enduro - Cadre aluminium", 
+    "Coloris commercial":"Team Yamaha Blue", 
+    "Année début":1988, 
+    "Année fin":2005 
+  },
+
+  { 
+    "Marque":"YAMAHA", 
+    "Modèle":"DTRE 125", 
+    "Cylindrée (cc)":125, 
+    "Type (M/S/E)":"S", 
+    "Spéc/Génération":"Enduro Racing / Injection", 
+    "Coloris commercial":"Icon Blue", 
+    "Année début":1999, 
+    "Année fin":2006 
+  },
+
+  { 
+    "Marque":"YAMAHA", 
+    "Modèle":"DTMX 125", 
+    "Cylindrée (cc)":125, 
+    "Type (M/S/E)":"M", 
+    "Spéc/Génération":"Trail léger - Air Cooled", 
+    "Coloris commercial":"Competition Yellow", 
+    "Année début":1976, 
+    "Année fin":2000 
+  },
+  { 
+    "Marque":"YAMAHA", 
+    "Modèle":"125 YZF", 
+    "Cylindrée (cc)":125, 
+    "Type (M/S/E)":"M", 
+    "Spéc/Génération":"Air Cooled - Première génération", 
+    "Coloris commercial":"Competition Yellow", 
+    "Année début":1974, 
+    "Année fin":1985 
+  },
+  { 
+    "Marque":"YAMAHA", 
+    "Modèle":"125 YZF", 
+    "Cylindrée (cc)":125, 
+    "Type (M/S/E)":"M", 
+    "Spéc/Génération":"Liquid Cooled - Cadre acier", 
+    "Coloris commercial":"White/Red", 
+    "Année début":1986, 
+    "Année fin":2004 
+  },
+  { 
+    "Marque":"YAMAHA", 
+    "Modèle":"125 YZF", 
+    "Cylindrée (cc)":125, 
+    "Type (M/S/E)":"M", 
+    "Spéc/Génération":"Cadre aluminium - Carburateur Keihin", 
+    "Coloris commercial":"Team Yamaha Blue", 
+    "Année début":2005, 
+    "Année fin":2021 
+  },
+  { 
+    "Marque":"YAMAHA", 
+    "Modèle":"125 YZF", 
+    "Cylindrée (cc)":125, 
+    "Type (M/S/E)":"M", 
+    "Spéc/Génération":"Injection électronique (EFI)", 
+    "Coloris commercial":"Team Yamaha Blue", 
+    "Année début":2022, 
+    "Année fin":2026 
+  },
+
+  { 
+    "Marque":"YAMAHA", 
+    "Modèle":"250 YZF 2T", 
+    "Cylindrée (cc)":249, 
+    "Type (M/S/E)":"M", 
+    "Spéc/Génération":"Air Cooled - Première génération", 
+    "Coloris commercial":"Competition Yellow", 
+    "Année début":1974, 
+    "Année fin":1981 
+  },
+  { 
+    "Marque":"YAMAHA", 
+    "Modèle":"250 YZF 2T", 
+    "Cylindrée (cc)":249, 
+    "Type (M/S/E)":"M", 
+    "Spéc/Génération":"Liquid Cooled - Cadre acier", 
+    "Coloris commercial":"White/Red", 
+    "Année début":1982, 
+    "Année fin":2004 
+  },
+  { 
+    "Marque":"YAMAHA", 
+    "Modèle":"250 YZF 2T", 
+    "Cylindrée (cc)":249, 
+    "Type (M/S/E)":"M", 
+    "Spéc/Génération":"Cadre aluminium - Carburateur Keihin", 
+    "Coloris commercial":"Team Yamaha Blue", 
+    "Année début":2005, 
+    "Année fin":2021 
+  },
+  { 
+    "Marque":"YAMAHA", 
+    "Modèle":"250 YZF 2T", 
+    "Cylindrée (cc)":249, 
+    "Type (M/S/E)":"M", 
+    "Spéc/Génération":"Injection électronique (EFI)", 
+    "Coloris commercial":"Team Yamaha Blue", 
+    "Année début":2022, 
+    "Année fin":2026 
+  },
+
+  { 
+    "Marque":"YAMAHA", 
+    "Modèle":"250 YZF 4T", 
+    "Cylindrée (cc)":250, 
+    "Type (M/S/E)":"M", 
+    "Spéc/Génération":"Cadre acier - Carburateur", 
+    "Coloris commercial":"Team Yamaha Blue", 
+    "Année début":1998, 
+    "Année fin":2006 
+  },
+  { 
+    "Marque":"YAMAHA", 
+    "Modèle":"250 YZF 4T", 
+    "Cylindrée (cc)":250, 
+    "Type (M/S/E)":"M", 
+    "Spéc/Génération":"Cadre aluminium - Injection", 
+    "Coloris commercial":"Team Yamaha Blue", 
+    "Année début":2007, 
+    "Année fin":2014 
+  },
+  { 
+    "Marque":"YAMAHA", 
+    "Modèle":"250 YZF 4T", 
+    "Cylindrée (cc)":250, 
+    "Type (M/S/E)":"M", 
+    "Spéc/Génération":"Moteur inversé (Reverse Head)", 
+    "Coloris commercial":"Racing Blue", 
+    "Année début":2015, 
+    "Année fin":2019 
+  },
+  { 
+    "Marque":"YAMAHA", 
+    "Modèle":"250 YZF 4T", 
+    "Cylindrée (cc)":250, 
+    "Type (M/S/E)":"M", 
+    "Spéc/Génération":"Nouvelle génération cadre + EFI", 
+    "Coloris commercial":"Icon Blue", 
+    "Année début":2020, 
+    "Année fin":2026 
+  },
+
+  { 
+    "Marque":"YAMAHA", 
+    "Modèle":"450 YZF", 
+    "Cylindrée (cc)":449, 
+    "Type (M/S/E)":"M", 
+    "Spéc/Génération":"Cadre acier - Carburateur", 
+    "Coloris commercial":"Competition Yellow", 
+    "Année début":1974, 
+    "Année fin":2004 
+  },
+  { 
+    "Marque":"YAMAHA", 
+    "Modèle":"450 YZF", 
+    "Cylindrée (cc)":449, 
+    "Type (M/S/E)":"M", 
+    "Spéc/Génération":"Cadre aluminium - Injection", 
+    "Coloris commercial":"Team Yamaha Blue", 
+    "Année début":2005, 
+    "Année fin":2021 
+  },
+  { 
+    "Marque":"YAMAHA", 
+    "Modèle":"450 YZF", 
+    "Cylindrée (cc)":449, 
+    "Type (M/S/E)":"M", 
+    "Spéc/Génération":"Injection EFI - Nouvelle génération", 
+    "Coloris commercial":"Team Yamaha Blue", 
+    "Année début":2022, 
+    "Année fin":2026 
+  },
+  { 
+    "Marque":"YAMAHA", 
+    "Modèle":"65 YZ", 
+    "Cylindrée (cc)":65, 
+    "Type (M/S/E)":"M", 
+    "Spéc/Génération":"Air Cooled - Première génération", 
+    "Coloris commercial":"Competition Yellow", 
+    "Année début":1974, 
+    "Année fin":1985 
+  },
+  { 
+    "Marque":"YAMAHA", 
+    "Modèle":"65 YZ", 
+    "Cylindrée (cc)":65, 
+    "Type (M/S/E)":"M", 
+    "Spéc/Génération":"Liquid Cooled - Cadre acier", 
+    "Coloris commercial":"White/Red", 
+    "Année début":1986, 
+    "Année fin":2004 
+  },
+  { 
+    "Marque":"YAMAHA", 
+    "Modèle":"65 YZ", 
+    "Cylindrée (cc)":65, 
+    "Type (M/S/E)":"M", 
+    "Spéc/Génération":"Cadre aluminium - Carburateur Keihin", 
+    "Coloris commercial":"Team Yamaha Blue", 
+    "Année début":2005, 
+    "Année fin":2021 
+  },
+  { 
+    "Marque":"YAMAHA", 
+    "Modèle":"65 YZ", 
+    "Cylindrée (cc)":65, 
+    "Type (M/S/E)":"M", 
+    "Spéc/Génération":"Injection électronique (EFI)", 
+    "Coloris commercial":"Team Yamaha Blue", 
+    "Année début":2022, 
+    "Année fin":2026 
+  },
+
+  { 
+    "Marque":"YAMAHA", 
+    "Modèle":"85 YZ", 
+    "Cylindrée (cc)":85, 
+    "Type (M/S/E)":"M", 
+    "Spéc/Génération":"Air Cooled - Première génération", 
+    "Coloris commercial":"Competition Yellow", 
+    "Année début":1974, 
+    "Année fin":1985 
+  },
+  { 
+    "Marque":"YAMAHA", 
+    "Modèle":"85 YZ", 
+    "Cylindrée (cc)":85, 
+    "Type (M/S/E)":"M", 
+    "Spéc/Génération":"Liquid Cooled - Cadre acier", 
+    "Coloris commercial":"White/Red", 
+    "Année début":1986, 
+    "Année fin":2004 
+  },
+  { 
+    "Marque":"YAMAHA", 
+    "Modèle":"85 YZ", 
+    "Cylindrée (cc)":85, 
+    "Type (M/S/E)":"M", 
+    "Spéc/Génération":"Cadre aluminium - Carburateur Keihin", 
+    "Coloris commercial":"Team Yamaha Blue", 
+    "Année début":2005, 
+    "Année fin":2021 
+  },
+  { 
+    "Marque":"YAMAHA", 
+    "Modèle":"85 YZ", 
+    "Cylindrée (cc)":85, 
+    "Type (M/S/E)":"M", 
+    "Spéc/Génération":"Injection électronique (EFI)", 
+    "Coloris commercial":"Team Yamaha Blue", 
+    "Année début":2022, 
+    "Année fin":2026 
+  },
+
+  { 
+    "Marque":"YAMAHA", 
+    "Modèle":"125 YZ", 
+    "Cylindrée (cc)":125, 
+    "Type (M/S/E)":"M", 
+    "Spéc/Génération":"Air Cooled - Première génération", 
+    "Coloris commercial":"Competition Yellow", 
+    "Année début":1974, 
+    "Année fin":1985 
+  },
+  { 
+    "Marque":"YAMAHA", 
+    "Modèle":"125 YZ", 
+    "Cylindrée (cc)":125, 
+    "Type (M/S/E)":"M", 
+    "Spéc/Génération":"Liquid Cooled - Cadre acier", 
+    "Coloris commercial":"White/Red", 
+    "Année début":1986, 
+    "Année fin":2004 
+  },
+  { 
+    "Marque":"YAMAHA", 
+    "Modèle":"125 YZ", 
+    "Cylindrée (cc)":125, 
+    "Type (M/S/E)":"M", 
+    "Spéc/Génération":"Cadre aluminium - Carburateur Keihin", 
+    "Coloris commercial":"Team Yamaha Blue", 
+    "Année début":2005, 
+    "Année fin":2021 
+  },
+  { 
+    "Marque":"YAMAHA", 
+    "Modèle":"125 YZ", 
+    "Cylindrée (cc)":125, 
+    "Type (M/S/E)":"M", 
+    "Spéc/Génération":"Injection électronique (EFI)", 
+    "Coloris commercial":"Team Yamaha Blue", 
+    "Année début":2022, 
+    "Année fin":2026 
+  },
+
+  { 
+    "Marque":"YAMAHA", 
+    "Modèle":"250 YZ", 
+    "Cylindrée (cc)":249, 
+    "Type (M/S/E)":"M", 
+    "Spéc/Génération":"Air Cooled - Première génération", 
+    "Coloris commercial":"Competition Yellow", 
+    "Année début":1974, 
+    "Année fin":1981 
+  },
+  { 
+    "Marque":"YAMAHA", 
+    "Modèle":"250 YZ", 
+    "Cylindrée (cc)":249, 
+    "Type (M/S/E)":"M", 
+    "Spéc/Génération":"Liquid Cooled - Cadre acier", 
+    "Coloris commercial":"White/Red", 
+    "Année début":1982, 
+    "Année fin":2004 
+  },
+  { 
+    "Marque":"YAMAHA", 
+    "Modèle":"250 YZ", 
+    "Cylindrée (cc)":249, 
+    "Type (M/S/E)":"M", 
+    "Spéc/Génération":"Cadre aluminium - Carburateur Keihin", 
+    "Coloris commercial":"Team Yamaha Blue", 
+    "Année début":2005, 
+    "Année fin":2021 
+  },
+  { 
+    "Marque":"YAMAHA", 
+    "Modèle":"250 YZ", 
+    "Cylindrée (cc)":249, 
+    "Type (M/S/E)":"M", 
+    "Spéc/Génération":"Injection électronique (EFI)", 
+    "Coloris commercial":"Team Yamaha Blue", 
+    "Année début":2022, 
+    "Année fin":2026 
+  },
+
+  { 
+    "Marque":"YAMAHA", 
+    "Modèle":"450 YZ", 
+    "Cylindrée (cc)":449, 
+    "Type (M/S/E)":"M", 
+    "Spéc/Génération":"Air Cooled - Première génération", 
+    "Coloris commercial":"Competition Yellow", 
+    "Année début":1974, 
+    "Année fin":1981 
+  },
+  { 
+    "Marque":"YAMAHA", 
+    "Modèle":"450 YZ", 
+    "Cylindrée (cc)":449, 
+    "Type (M/S/E)":"M", 
+    "Spéc/Génération":"Liquid Cooled - Cadre acier", 
+    "Coloris commercial":"White/Red", 
+    "Année début":1982, 
+    "Année fin":2004 
+  },
+  { 
+    "Marque":"YAMAHA", 
+    "Modèle":"450 YZ", 
+    "Cylindrée (cc)":449, 
+    "Type (M/S/E)":"M", 
+    "Spéc/Génération":"Cadre aluminium - Carburateur Keihin", 
+    "Coloris commercial":"Team Yamaha Blue", 
+    "Année début":2005, 
+    "Année fin":2021 
+  },
+  { 
+    "Marque":"YAMAHA", 
+    "Modèle":"450 YZ", 
+    "Cylindrée (cc)":449, 
+    "Type (M/S/E)":"M", 
+    "Spéc/Génération":"Injection électronique (EFI)", 
+    "Coloris commercial":"Team Yamaha Blue", 
+    "Année début":2022, 
+    "Année fin":2026 
+  },
+  { 
+    "Marque":"YAMAHA", 
+    "Modèle":"FZ8", 
+    "Cylindrée (cc)":779, 
+    "Type (M/S/E)":"M", 
+    "Spéc/Génération":"FZ8 première génération", 
+    "Coloris commercial":"Midnight Black", 
+    "Année début":2010, 
+    "Année fin":2012 
+  },
+  { 
+    "Marque":"YAMAHA", 
+    "Modèle":"FZ8", 
+    "Cylindrée (cc)":779, 
+    "Type (M/S/E)":"M", 
+    "Spéc/Génération":"FZ8 restylage suspensions révisées", 
+    "Coloris commercial":"Race Blu", 
+    "Année début":2013, 
+    "Année fin":2015 
+  },
+  { 
+    "Marque":"YAMAHA", 
+    "Modèle":"FZ8 Fazer", 
+    "Cylindrée (cc)":779, 
+    "Type (M/S/E)":"S", 
+    "Spéc/Génération":"FZ8 Fazer première génération", 
+    "Coloris commercial":"Magnetic Bronze", 
+    "Année début":2010, 
+    "Année fin":2012 
+  },
+  { 
+    "Marque":"YAMAHA", 
+    "Modèle":"FZ8 Fazer", 
+    "Cylindrée (cc)":779, 
+    "Type (M/S/E)":"S", 
+    "Spéc/Génération":"FZ8 Fazer restylage suspensions révisées", 
+    "Coloris commercial":"Race Blu", 
+    "Année début":2013, 
+    "Année fin":2015 
+  },
+  { 
+    "Marque":"YAMAHA", 
+    "Modèle":"700 XSR", 
+    "Cylindrée (cc)":689, 
+    "Type (M/S/E)":"M", 
+    "Spéc/Génération":"XSR700 première génération (CP2)", 
+    "Coloris commercial":"Garage Metal", 
+    "Année début":2016, 
+    "Année fin":2021 
+  },
+  { 
+    "Marque":"YAMAHA", 
+    "Modèle":"700 XSR", 
+    "Cylindrée (cc)":689, 
+    "Type (M/S/E)":"M", 
+    "Spéc/Génération":"XSR700 Euro5 (CP2 révisé)", 
+    "Coloris commercial":"Historic White", 
+    "Année début":2022, 
+    "Année fin":2026 
+  },
+  { 
+    "Marque":"YAMAHA", 
+    "Modèle":"700 XSR XTribute", 
+    "Cylindrée (cc)":689, 
+    "Type (M/S/E)":"M", 
+    "Spéc/Génération":"XSR700 XTribute version spéciale", 
+    "Coloris commercial":"Radical White", 
+    "Année début":2019, 
+    "Année fin":2026 
+  },
+
+  { 
+    "Marque":"YAMAHA", 
+    "Modèle":"900 XSR", 
+    "Cylindrée (cc)":847, 
+    "Type (M/S/E)":"M", 
+    "Spéc/Génération":"XSR900 première génération (CP3 847cc)", 
+    "Coloris commercial":"Rock Slate", 
+    "Année début":2016, 
+    "Année fin":2021 
+  },
+  { 
+    "Marque":"YAMAHA", 
+    "Modèle":"900 XSR", 
+    "Cylindrée (cc)":890, 
+    "Type (M/S/E)":"M", 
+    "Spéc/Génération":"XSR900 nouvelle génération (CP3 890cc)", 
+    "Coloris commercial":"Legend Blue", 
+    "Année début":2022, 
+    "Année fin":2026 
+  },
+  { 
+    "Marque":"YAMAHA", 
+    "Modèle":"900 XSR SP", 
+    "Cylindrée (cc)":890, 
+    "Type (M/S/E)":"M", 
+    "Spéc/Génération":"XSR900 SP suspensions premium", 
+    "Coloris commercial":"Icon Performance", 
+    "Année début":2022, 
+    "Année fin":2026 
+  },
+  { 
+    "Marque":"YAMAHA", 
+    "Modèle":"900 XSR GP", 
+    "Cylindrée (cc)":890, 
+    "Type (M/S/E)":"M", 
+    "Spéc/Génération":"XSR900 GP carénage racing", 
+    "Coloris commercial":"Power Grey", 
+    "Année début":2024, 
+    "Année fin":2026 
+  },
+
+  { 
+    "Marque":"YAMAHA", 
+    "Modèle":"125 XSR", 
+    "Cylindrée (cc)":125, 
+    "Type (M/S/E)":"M", 
+    "Spéc/Génération":"XSR125 VVA Euro5", 
+    "Coloris commercial":"Redline", 
+    "Année début":2021, 
+    "Année fin":2026 
+  },
+  { 
+    "Marque":"YAMAHA", 
+    "Modèle":"400 WR", 
+    "Cylindrée (cc)":399, 
+    "Type (M/S/E)":"M", 
+    "Spéc/Génération":"Première génération WRF (400F)", 
+    "Coloris commercial":"Competition Blue", 
+    "Année début":1998, 
+    "Année fin":2000 
+  },
+  { 
+    "Marque":"YAMAHA", 
+    "Modèle":"426 WR", 
+    "Cylindrée (cc)":426, 
+    "Type (M/S/E)":"M", 
+    "Spéc/Génération":"WR426F évolution moteur", 
+    "Coloris commercial":"Competition Blue", 
+    "Année début":2001, 
+    "Année fin":2002 
+  },
+  { 
+    "Marque":"YAMAHA", 
+    "Modèle":"450 WR", 
+    "Cylindrée (cc)":449, 
+    "Type (M/S/E)":"M", 
+    "Spéc/Génération":"WR450F cadre acier", 
+    "Coloris commercial":"Competition Blue", 
+    "Année début":2003, 
+    "Année fin":2006 
+  },
+  { 
+    "Marque":"YAMAHA", 
+    "Modèle":"450 WR", 
+    "Cylindrée (cc)":449, 
+    "Type (M/S/E)":"M", 
+    "Spéc/Génération":"WR450F cadre aluminium", 
+    "Coloris commercial":"Team Yamaha Blue", 
+    "Année début":2007, 
+    "Année fin":2011 
+  },
+  { 
+    "Marque":"YAMAHA", 
+    "Modèle":"450 WR", 
+    "Cylindrée (cc)":449, 
+    "Type (M/S/E)":"M", 
+    "Spéc/Génération":"WR450F injection électronique", 
+    "Coloris commercial":"Team Yamaha Blue", 
+    "Année début":2012, 
+    "Année fin":2014 
+  },
+  { 
+    "Marque":"YAMAHA", 
+    "Modèle":"450 WR", 
+    "Cylindrée (cc)":449, 
+    "Type (M/S/E)":"M", 
+    "Spéc/Génération":"WR450F moteur inversé (reverse head)", 
+    "Coloris commercial":"Racing Blue", 
+    "Année début":2015, 
+    "Année fin":2019 
+  },
+  { 
+    "Marque":"YAMAHA", 
+    "Modèle":"450 WR", 
+    "Cylindrée (cc)":449, 
+    "Type (M/S/E)":"M", 
+    "Spéc/Génération":"WR450F nouvelle génération châssis", 
+    "Coloris commercial":"Racing Blue", 
+    "Année début":2020, 
+    "Année fin":2023 
+  },
+  { 
+    "Marque":"YAMAHA", 
+    "Modèle":"450 WR", 
+    "Cylindrée (cc)":450, 
+    "Type (M/S/E)":"M", 
+    "Spéc/Génération":"WR450F génération 2024+", 
+    "Coloris commercial":"Icon Blue", 
+    "Année début":2024, 
+    "Année fin":2026 
+  },
+
+  { 
+    "Marque":"YAMAHA", 
+    "Modèle":"250 WRF", 
+    "Cylindrée (cc)":250, 
+    "Type (M/S/E)":"M", 
+    "Spéc/Génération":"WR250F cadre acier", 
+    "Coloris commercial":"Competition Blue", 
+    "Année début":2001, 
+    "Année fin":2006 
+  },
+  { 
+    "Marque":"YAMAHA", 
+    "Modèle":"250 WRF", 
+    "Cylindrée (cc)":250, 
+    "Type (M/S/E)":"M", 
+    "Spéc/Génération":"WR250F cadre aluminium", 
+    "Coloris commercial":"Team Yamaha Blue", 
+    "Année début":2007, 
+    "Année fin":2014 
+  },
+  { 
+    "Marque":"YAMAHA", 
+    "Modèle":"250 WRF", 
+    "Cylindrée (cc)":250, 
+    "Type (M/S/E)":"M", 
+    "Spéc/Génération":"WR250F moteur inversé (reverse head)", 
+    "Coloris commercial":"Racing Blue", 
+    "Année début":2015, 
+    "Année fin":2019 
+  },
+  { 
+    "Marque":"YAMAHA", 
+    "Modèle":"250 WRF", 
+    "Cylindrée (cc)":250, 
+    "Type (M/S/E)":"M", 
+    "Spéc/Génération":"WR250F nouvelle génération", 
+    "Coloris commercial":"Icon Blue", 
+    "Année début":2020, 
+    "Année fin":2026 
+  },
+  { 
+    "Marque":"YAMAHA", 
+    "Modèle":"250 YZ", 
+    "Cylindrée (cc)":249, 
+    "Type (M/S/E)":"M", 
+    "Spéc/Génération":"Air Cooled - Première génération", 
+    "Coloris commercial":"Competition Yellow", 
+    "Année début":1974, 
+    "Année fin":1981 
+  },
+  { 
+    "Marque":"YAMAHA", 
+    "Modèle":"250 YZ", 
+    "Cylindrée (cc)":249, 
+    "Type (M/S/E)":"M", 
+    "Spéc/Génération":"Liquid Cooled - Cadre acier", 
+    "Coloris commercial":"White/Red", 
+    "Année début":1982, 
+    "Année fin":2004 
+  },
+  { 
+    "Marque":"YAMAHA", 
+    "Modèle":"250 YZ", 
+    "Cylindrée (cc)":249, 
+    "Type (M/S/E)":"M", 
+    "Spéc/Génération":"Cadre aluminium - Carburateur Keihin", 
+    "Coloris commercial":"Team Yamaha Blue", 
+    "Année début":2005, 
+    "Année fin":2021 
+  },
+  { 
+    "Marque":"YAMAHA", 
+    "Modèle":"250 YZ", 
+    "Cylindrée (cc)":249, 
+    "Type (M/S/E)":"M", 
+    "Spéc/Génération":"Injection électronique (EFI)", 
+    "Coloris commercial":"Team Yamaha Blue", 
+    "Année début":2022, 
+    "Année fin":2025 
+  },
+{ 
+  "Marque":"YAMAHA", 
+  "Modèle":"250 YZ", 
+  "Cylindrée (cc)":249, 
+  "Type (M/S/E)":"M", 
+  "Spéc/Génération":"Injection électronique (EFI)", 
+  "Coloris commercial":"Team Yamaha Blue", 
+  "Année début":2026, 
+  "Année fin":2026 
+},
   {
     "Marque":"Yamaha",
     "Modèle":"Aerox 125\/155",
