@@ -1,5 +1,425 @@
 [
   {
+    "Marque":"Aprilia",
+    "Modèle":"Tuono 125 4T",
+    "Cylindrée (cc)":124,
+    "Type (M/S/E)":"M",
+    "Spéc/Génération":"Roadster 4-temps dérivé RS4 125 – monocylindre 4 soupapes, ABS Bosch",
+    "Coloris commercial":"Noir / Rouge / Blanc",
+    "Année début":2011,
+    "Année fin":2016
+  },
+  {
+    "Marque":"Aprilia",
+    "Modèle":"Tuono 125 4T",
+    "Cylindrée (cc)":124,
+    "Type (M/S/E)":"M",
+    "Spéc/Génération":"Mise à jour Euro4 – ABS double canal, nouvelle instrumentation",
+    "Coloris commercial":"Noir / Rouge / Gris",
+    "Année début":2017,
+    "Année fin":2020
+  },
+  {
+    "Marque":"Aprilia",
+    "Modèle":"Tuono 125 4T",
+    "Cylindrée (cc)":124,
+    "Type (M/S/E)":"M",
+    "Spéc/Génération":"Nouvelle génération – moteur Euro5, contrôle de traction, écran TFT couleur",
+    "Coloris commercial":"Noir / Gris / Blanc",
+    "Année début":2021,
+    "Année fin":2024
+  },
+  {
+    "Marque":"Aprilia",
+    "Modèle":"Tuono 125 4T",
+    "Cylindrée (cc)":124,
+    "Type (M/S/E)":"M",
+    "Spéc/Génération":"Mise à jour Euro5+ – électronique optimisée, nouvelles livrées",
+    "Coloris commercial":"Noir / Rouge / Gris",
+    "Année début":2025,
+    "Année fin":2026
+  },
+  {
+    "Marque":"Ducati",
+    "Modèle":"Multistrada 1000 DS",
+    "Cylindrée (cc)":992,
+    "Type (M/S/E)":"M",
+    "Spéc/Génération":"Première génération – bicylindre en L refroidi par air, Desmodue 2 soupapes",
+    "Coloris commercial":"Rouge / Noir / Gris",
+    "Année début":2003,
+    "Année fin":2006
+  },
+  {
+    "Marque":"Ducati",
+    "Modèle":"Multistrada 1100 / 1100 S",
+    "Cylindrée (cc)":1078,
+    "Type (M/S/E)":"M",
+    "Spéc/Génération":"Évolution – bicylindre en L air/huile, embrayage APTC, version S suspensions Öhlins",
+    "Coloris commercial":"Rouge / Noir / Blanc",
+    "Année début":2007,
+    "Année fin":2009
+  },
+  {
+    "Marque":"Ducati",
+    "Modèle":"Multistrada 1200",
+    "Cylindrée (cc)":1198,
+    "Type (M/S/E)":"M",
+    "Spéc/Génération":"Nouvelle génération – Testastretta 11° refroidi liquide, ride-by-wire, modes de conduite",
+    "Coloris commercial":"Rouge / Blanc / Noir",
+    "Année début":2010,
+    "Année fin":2012
+  },
+  {
+    "Marque":"Ducati",
+    "Modèle":"Multistrada 1200 S / Pikes Peak",
+    "Cylindrée (cc)":1198,
+    "Type (M/S/E)":"M",
+    "Spéc/Génération":"Version S – suspensions électroniques Öhlins (puis Skyhook en 2013), ABS/DTC avancé",
+    "Coloris commercial":"Rouge / Blanc Pikes Peak / Noir",
+    "Année début":2010,
+    "Année fin":2014
+  },
+  {
+    "Marque":"Ducati",
+    "Modèle":"Multistrada 1200 DVT",
+    "Cylindrée (cc)":1198,
+    "Type (M/S/E)":"M",
+    "Spéc/Génération":"Restylage majeur – Testastretta DVT (distribution variable), IMU 6 axes",
+    "Coloris commercial":"Rouge / Blanc / Gris",
+    "Année début":2015,
+    "Année fin":2017
+  },
+  {
+    "Marque":"Ducati",
+    "Modèle":"Multistrada 1260 / 1260 S / Pikes Peak",
+    "Cylindrée (cc)":1262,
+    "Type (M/S/E)":"M",
+    "Spéc/Génération":"Évolution – Testastretta DVT 1262 cc, bras oscillant allongé, électronique Bosch évoluée",
+    "Coloris commercial":"Rouge / Gris / Blanc Pikes Peak",
+    "Année début":2018,
+    "Année fin":2020
+  },
+  {
+    "Marque":"Ducati",
+    "Modèle":"Multistrada 950 / 950 S",
+    "Cylindrée (cc)":937,
+    "Type (M/S/E)":"M",
+    "Spéc/Génération":"Version intermédiaire – Testastretta 937 cc liquide, IMU sur version S",
+    "Coloris commercial":"Rouge / Blanc / Gris",
+    "Année début":2017,
+    "Année fin":2018
+  },
+  {
+    "Marque":"Ducati",
+    "Modèle":"Multistrada 950 S",
+    "Cylindrée (cc)":937,
+    "Type (M/S/E)":"M",
+    "Spéc/Génération":"Mise à jour – jantes à rayons optionnelles, électronique enrichie",
+    "Coloris commercial":"Rouge / Gris / Blanc",
+    "Année début":2019,
+    "Année fin":2021
+  },
+  {
+    "Marque":"Ducati",
+    "Modèle":"Multistrada V4 / V4 S / V4 Pikes Peak",
+    "Cylindrée (cc)":1158,
+    "Type (M/S/E)":"M",
+    "Spéc/Génération":"Nouvelle génération – moteur V4 Granturismo, distribution classique sans desmo, radar ACC",
+    "Coloris commercial":"Rouge / Blanc / Gris / Pikes Peak",
+    "Année début":2021,
+    "Année fin":2024
+  },
+  {
+    "Marque":"Ducati",
+    "Modèle":"Multistrada V4 Rally",
+    "Cylindrée (cc)":1158,
+    "Type (M/S/E)":"M",
+    "Spéc/Génération":"Version Grand Raid – V4 Granturismo, réservoir 30L, suspensions longues",
+    "Coloris commercial":"Rouge / Noir / Blanc",
+    "Année début":2023,
+    "Année fin":2026
+  },
+  {
+    "Marque":"Ducati",
+    "Modèle":"Multistrada V4 / V4 S",
+    "Cylindrée (cc)":1158,
+    "Type (M/S/E)":"M",
+    "Spéc/Génération":"Mise à jour Euro5+ – électronique raffinée, gestion désactivation cylindres",
+    "Coloris commercial":"Rouge / Gris / Blanc",
+    "Année début":2025,
+    "Année fin":2026
+  },
+  {
+    "Marque":"Honda",
+    "Modèle":"FES125 Pantheon",
+    "Cylindrée (cc)":125,
+    "Type (M/S/E)":"S",
+    "Spéc/Génération":"Scooter GT 2-temps – refroidissement liquide",
+    "Coloris commercial":"Noir / Bleu / Rouge / Gris",
+    "Année début":1998,
+    "Année fin":2002
+  },
+  {
+    "Marque":"Honda",
+    "Modèle":"FES150 Pantheon",
+    "Cylindrée (cc)":150,
+    "Type (M/S/E)":"S",
+    "Spéc/Génération":"Scooter GT 2-temps – version 150 cc",
+    "Coloris commercial":"Noir / Bleu / Gris",
+    "Année début":1998,
+    "Année fin":2002
+  },
+  {
+    "Marque":"Honda",
+    "Modèle":"FES125 Pantheon",
+    "Cylindrée (cc)":125,
+    "Type (M/S/E)":"S",
+    "Spéc/Génération":"Seconde génération – moteur 4-temps, injection PGM-FI",
+    "Coloris commercial":"Noir / Gris / Argent / Bleu",
+    "Année début":2003,
+    "Année fin":2007
+  },
+  {
+    "Marque":"Honda",
+    "Modèle":"FES150 Pantheon",
+    "Cylindrée (cc)":150,
+    "Type (M/S/E)":"S",
+    "Spéc/Génération":"Seconde génération – moteur 4-temps, injection PGM-FI",
+    "Coloris commercial":"Noir / Gris / Argent",
+    "Année début":2003,
+    "Année fin":2007
+  },
+  {
+    "Marque":"Honda",
+    "Modèle":"NSS125 Forza",
+    "Cylindrée (cc)":125,
+    "Type (M/S/E)":"S",
+    "Spéc/Génération":"Maxi-scooter GT – moteur eSP, ABS",
+    "Coloris commercial":"Noir / Blanc / Gris",
+    "Année début":2015,
+    "Année fin":2017
+  },
+  {
+    "Marque":"Honda",
+    "Modèle":"NSS125 Forza",
+    "Cylindrée (cc)":125,
+    "Type (M/S/E)":"S",
+    "Spéc/Génération":"Nouvelle génération – moteur eSP+, contrôle de traction HSTC, bulle électrique",
+    "Coloris commercial":"Noir / Gris / Rouge / Blanc",
+    "Année début":2018,
+    "Année fin":2022
+  },
+  {
+    "Marque":"Honda",
+    "Modèle":"NSS125 Forza",
+    "Cylindrée (cc)":125,
+    "Type (M/S/E)":"S",
+    "Spéc/Génération":"Restylage – écran TFT 5”, connectivité Honda RoadSync",
+    "Coloris commercial":"Noir / Gris Mat / Blanc / Bleu",
+    "Année début":2023,
+    "Année fin":2026
+  },
+  {
+    "Marque":"Honda",
+    "Modèle":"NSS300 Forza",
+    "Cylindrée (cc)":279,
+    "Type (M/S/E)":"S",
+    "Spéc/Génération":"Maxi-scooter GT – monocylindre 279 cc, ABS",
+    "Coloris commercial":"Noir / Blanc / Gris",
+    "Année début":2013,
+    "Année fin":2017
+  },
+  {
+    "Marque":"Honda",
+    "Modèle":"NSS350 Forza",
+    "Cylindrée (cc)":330,
+    "Type (M/S/E)":"S",
+    "Spéc/Génération":"Nouvelle génération – moteur eSP+ 330 cc, HSTC",
+    "Coloris commercial":"Noir / Gris / Rouge / Argent",
+    "Année début":2021,
+    "Année fin":2022
+  },
+  {
+    "Marque":"Honda",
+    "Modèle":"NSS350 Forza",
+    "Cylindrée (cc)":330,
+    "Type (M/S/E)":"S",
+    "Spéc/Génération":"Mise à jour – écran TFT 5”, connectivité, normes Euro5+",
+    "Coloris commercial":"Noir / Gris Mat / Blanc / Bleu",
+    "Année début":2023,
+    "Année fin":2026
+  },
+  {
+    "Marque":"Honda",
+    "Modèle":"CB500F",
+    "Cylindrée (cc)":471,
+    "Type (M/S/E)":"M",
+    "Spéc/Génération":"Roadster bicylindre parallèle – première génération avec ABS (FA)",
+    "Coloris commercial":"Noir / Blanc / Rouge",
+    "Année début":2013,
+    "Année fin":2015
+  },
+  {
+    "Marque":"Honda",
+    "Modèle":"CB500F",
+    "Cylindrée (cc)":471,
+    "Type (M/S/E)":"M",
+    "Spéc/Génération":"Restylage – optique LED, réservoir redessiné, fourche améliorée",
+    "Coloris commercial":"Noir / Rouge / Blanc",
+    "Année début":2016,
+    "Année fin":2018
+  },
+  {
+    "Marque":"Honda",
+    "Modèle":"CB500F",
+    "Cylindrée (cc)":471,
+    "Type (M/S/E)":"M",
+    "Spéc/Génération":"Nouvelle génération – moteur Euro5, embrayage assisté/anti-dribble",
+    "Coloris commercial":"Noir / Rouge / Blanc / Jaune",
+    "Année début":2019,
+    "Année fin":2021
+  },
+  {
+    "Marque":"Honda",
+    "Modèle":"CB500F",
+    "Cylindrée (cc)":471,
+    "Type (M/S/E)":"M",
+    "Spéc/Génération":"Mise à jour – double disque avant, fourche Showa SFF-BP, écran LCD modernisé",
+    "Coloris commercial":"Noir / Rouge / Blanc / Gris",
+    "Année début":2022,
+    "Année fin":2023
+  },
+  {
+    "Marque":"Honda",
+    "Modèle":"CB500F",
+    "Cylindrée (cc)":471,
+    "Type (M/S/E)":"M",
+    "Spéc/Génération":"Restylage – écran TFT 5”, traction control HSTC, normes Euro5+",
+    "Coloris commercial":"Noir / Rouge / Blanc",
+    "Année début":2024,
+    "Année fin":2026
+  },
+  {
+    "Marque":"Honda",
+    "Modèle":"ADV350",
+    "Cylindrée (cc)":330,
+    "Type (M/S/E)":"S",
+    "Spéc/Génération":"Scooter adventure – moteur eSP+ 330 cc, traction control HSTC",
+    "Coloris commercial":"Noir / Gris / Rouge / Argent",
+    "Année début":2022,
+    "Année fin":2024
+  },
+  {
+    "Marque":"Honda",
+    "Modèle":"ADV350",
+    "Cylindrée (cc)":330,
+    "Type (M/S/E)":"S",
+    "Spéc/Génération":"Restylage – écran TFT 5”, connectivité Honda RoadSync",
+    "Coloris commercial":"Noir / Gris Mat / Blanc / Bleu",
+    "Année début":2025,
+    "Année fin":2026
+  },
+  {
+    "Marque":"Honda",
+    "Modèle":"X-ADV 750",
+    "Cylindrée (cc)":745,
+    "Type (M/S/E)":"S",
+    "Spéc/Génération":"Scooter adventure bicylindre – boîte DCT, première génération",
+    "Coloris commercial":"Noir / Gris / Blanc",
+    "Année début":2017,
+    "Année fin":2020
+  },
+  {
+    "Marque":"Honda",
+    "Modèle":"X-ADV 750",
+    "Cylindrée (cc)":745,
+    "Type (M/S/E)":"S",
+    "Spéc/Génération":"Seconde génération – ride-by-wire, modes de conduite, écran TFT",
+    "Coloris commercial":"Gris / Noir / Rouge",
+    "Année début":2021,
+    "Année fin":2024
+  },
+  {
+    "Marque":"Honda",
+    "Modèle":"X-ADV 750",
+    "Cylindrée (cc)":745,
+    "Type (M/S/E)":"S",
+    "Spéc/Génération":"Mise à jour électronique – connectivité améliorée, DCT optimisée",
+    "Coloris commercial":"Noir / Gris Mat / Vert",
+    "Année début":2025,
+    "Année fin":2026
+  },
+  {
+    "Marque":"Honda",
+    "Modèle":"CRF1000L Africa Twin DCT",
+    "Cylindrée (cc)":998,
+    "Type (M/S/E)":"M",
+    "Spéc/Génération":"Trail bicylindre parallèle – première génération avec boîte automatique DCT",
+    "Coloris commercial":"Rouge / Noir / Blanc Tricolore",
+    "Année début":2016,
+    "Année fin":2017
+  },
+  {
+    "Marque":"Honda",
+    "Modèle":"CRF1000L Africa Twin Adventure Sports DCT",
+    "Cylindrée (cc)":998,
+    "Type (M/S/E)":"M",
+    "Spéc/Génération":"Version Adventure Sports – réservoir 24L, suspensions rehaussées, DCT",
+    "Coloris commercial":"Tricolore / Rouge / Blanc",
+    "Année début":2018,
+    "Année fin":2019
+  },
+  {
+    "Marque":"Honda",
+    "Modèle":"CRF1100L Africa Twin DCT",
+    "Cylindrée (cc)":1084,
+    "Type (M/S/E)":"M",
+    "Spéc/Génération":"Seconde génération – 1100 cc, ride-by-wire, IMU 6 axes, écran TFT, DCT",
+    "Coloris commercial":"Rouge / Noir / Blanc Tricolore",
+    "Année début":2020,
+    "Année fin":2023
+  },
+  {
+    "Marque":"Honda",
+    "Modèle":"CRF1100L Africa Twin Adventure Sports DCT",
+    "Cylindrée (cc)":1084,
+    "Type (M/S/E)":"M",
+    "Spéc/Génération":"Version Adventure Sports – grand réservoir, suspensions électroniques Showa EERA (selon version), DCT",
+    "Coloris commercial":"Gris / Noir / Blanc Tricolore",
+    "Année début":2020,
+    "Année fin":2023
+  },
+  {
+    "Marque":"Honda",
+    "Modèle":"CRF1100L Africa Twin DCT",
+    "Cylindrée (cc)":1084,
+    "Type (M/S/E)":"M",
+    "Spéc/Génération":"Restylage – nouvelles cartographies moteur, écran TFT 6,5”, DCT optimisée",
+    "Coloris commercial":"Noir / Rouge / Blanc",
+    "Année début":2024,
+    "Année fin":2026
+  },
+  {
+    "Marque":"Honda",
+    "Modèle":"CRF1100L Africa Twin Adventure Sports DCT ES",
+    "Cylindrée (cc)":1084,
+    "Type (M/S/E)":"M",
+    "Spéc/Génération":"Adventure Sports ES – roue avant 19”, suspensions électroniques Showa EERA, DCT",
+    "Coloris commercial":"Gris / Noir",
+    "Année début":2024,
+    "Année fin":2026
+  },
+  {
+    "Marque":"KTM",
+    "Modèle":"990 SM",
+    "Cylindrée (cc)":947,
+    "Type (M/S/E)":"M",
+    "Spéc/Génération":"Supermoto route – moteur LC8c 947 cc, injection EFI Euro5, suspensions WP APEX standard",
+    "Coloris commercial":"Orange / Black Metallic",
+    "Année début":2024,
+    "Année fin":2026
+  },
+  {
     "Marque":"KTM",
     "Modèle":"790 Duke",
     "Cylindrée (cc)":799,
