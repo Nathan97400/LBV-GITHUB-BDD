@@ -1,4 +1,1232 @@
 [
+  {
+    "Marque":"KTM",
+    "Modèle":"790 Duke",
+    "Cylindrée (cc)":799,
+    "Type (M/S/E)":"M",
+    "Spéc/Génération":"Roadster bicylindre parallèle LC8c – première génération",
+    "Coloris commercial":"Orange / Noir / Gris",
+    "Année début":2017,
+    "Année fin":2020
+  },
+  {
+    "Marque":"KTM",
+    "Modèle":"790 Duke",
+    "Cylindrée (cc)":799,
+    "Type (M/S/E)":"M",
+    "Spéc/Génération":"Retour du 790 Duke – électronique moderne, A2 compatible",
+    "Coloris commercial":"Orange / Noir / Gris",
+    "Année début":2023,
+    "Année fin":2026
+  },
+  {
+    "Marque":"KTM",
+    "Modèle":"890 Duke",
+    "Cylindrée (cc)":889,
+    "Type (M/S/E)":"M",
+    "Spéc/Génération":"Roadster bicylindre LC8 – cylindrée accrue, Euro5",
+    "Coloris commercial":"Orange / Noir",
+    "Année début":2021,
+    "Année fin":2025
+  },
+  {
+    "Marque":"KTM",
+    "Modèle":"890 Duke R",
+    "Cylindrée (cc)":889,
+    "Type (M/S/E)":"M",
+    "Spéc/Génération":"Version sportive R – châssis amélioré, puissance accrue",
+    "Coloris commercial":"Orange / Noir / Race",
+    "Année début":2021,
+    "Année fin":2026
+  },
+  {
+    "Marque":"KTM",
+    "Modèle":"990 Duke",
+    "Cylindrée (cc)":947,
+    "Type (M/S/E)":"M",
+    "Spéc/Génération":"Nouvelle génération roadster – plus gros moteur LC8c, électronique avancée",
+    "Coloris commercial":"Orange / Black Metallic",
+    "Année début":2024,
+    "Année fin":2026
+  },
+  {
+    "Marque":"KTM",
+    "Modèle":"990 Duke R",
+    "Cylindrée (cc)":947,
+    "Type (M/S/E)":"M",
+    "Spéc/Génération":"Edition R haut de gamme – suspensions WP APEX réglables, TFT 8,8’’",
+    "Coloris commercial":"Orange / Black",
+    "Année début":2026,
+    "Année fin":2026
+  },
+  {
+    "Marque":"KTM",
+    "Modèle":"RC 125 / RC 125 R",
+    "Cylindrée (cc)":125,
+    "Type (M/S/E)":"M",
+    "Spéc/Génération":"Sportbike 125 moderne - injection EFI Euro4/Euro5",
+    "Coloris commercial":"Orange / Noir / Blanc",
+    "Année début":2015,
+    "Année fin":2026
+  },
+  {
+    "Marque":"KTM",
+    "Modèle":"RC 200 / RC 200 R",
+    "Cylindrée (cc)":199.5,
+    "Type (M/S/E)":"M",
+    "Spéc/Génération":"Sportbike 200 moderne - injection EFI Euro4/Euro5",
+    "Coloris commercial":"Orange / Noir / Blanc",
+    "Année début":2018,
+    "Année fin":2026
+  },
+  {
+    "Marque":"KTM",
+    "Modèle":"RC 250",
+    "Cylindrée (cc)":249,
+    "Type (M/S/E)":"M",
+    "Spéc/Génération":"Sportbike 250 moderne - injection EFI",
+    "Coloris commercial":"Orange / Noir / Blanc",
+    "Année début":2020,
+    "Année fin":2026
+  },
+  {
+    "Marque":"KTM",
+    "Modèle":"RC 390 / RC 390 R",
+    "Cylindrée (cc)":373,
+    "Type (M/S/E)":"M",
+    "Spéc/Génération":"Sportbike 390 moderne - injection EFI, versions standard & R",
+    "Coloris commercial":"Orange / Blanc / Noir",
+    "Année début":2014,
+    "Année fin":2026
+  },
+  {
+    "Marque":"KTM",
+    "Modèle":"990 RC R",
+    "Cylindrée (cc)":947,
+    "Type (M/S/E)":"M",
+    "Spéc/Génération":"Supersport haut de gamme - injection EFI Euro5+, WP APEX, modes ride",
+    "Coloris commercial":"Orange / Black Metallic",
+    "Année début":2026,
+    "Année fin":2026
+  },
+  {
+    "Marque":"KAWASAKI",
+    "Modèle":"GPZ1000RX",
+    "Cylindrée (cc)":997,
+    "Type (M/S/E)":"S",
+    "Spéc/Génération":"Sport‑touring 4‑cylindres DOHC carburateur",
+    "Coloris commercial":"Standard (Vert, Rouge, Noir selon marché)",
+    "Année début":1986,
+    "Année fin":1988
+  },
+  {
+    "Marque":"KAWASAKI",
+    "Modèle":"KLX 125",
+    "Cylindrée (cc)":124,
+    "Type (M/S/E)":"M",
+    "Spéc/Génération":"Trail léger 4T, injection EFI / Euro4",
+    "Coloris commercial":"Lime Green / Noir",
+    "Année début":2018,
+    "Année fin":2026
+  },
+  {
+    "Marque":"KAWASAKI",
+    "Modèle":"KLX 140",
+    "Cylindrée (cc)":144,
+    "Type (M/S/E)":"M",
+    "Spéc/Génération":"Trail 4T – junior / permis A1",
+    "Coloris commercial":"Lime Green / Noir",
+    "Année début":2004,
+    "Année fin":2019
+  },
+  {
+    "Marque":"KAWASAKI",
+    "Modèle":"KLX 140G",
+    "Cylindrée (cc)":144,
+    "Type (M/S/E)":"M",
+    "Spéc/Génération":"Trail 4T – version « G » confort route / off‑road",
+    "Coloris commercial":"Lime Green / Noir",
+    "Année début":2013,
+    "Année fin":2019
+  },
+  {
+    "Marque":"KAWASAKI",
+    "Modèle":"KLX 150",
+    "Cylindrée (cc)":144,
+    "Type (M/S/E)":"M",
+    "Spéc/Génération":"Trail 4T – remplaçante KLX140, Euro4/EFI",
+    "Coloris commercial":"Lime Green / Noir",
+    "Année début":2020,
+    "Année fin":2026
+  },
+  {
+    "Marque":"KAWASAKI",
+    "Modèle":"KLX 250",
+    "Cylindrée (cc)":249,
+    "Type (M/S/E)":"M",
+    "Spéc/Génération":"Trail / Dual‑Sport 4T, carburateur puis EFI",
+    "Coloris commercial":"Lime Green / Blanc",
+    "Année début":1990,
+    "Année fin":2017
+  },
+  {
+    "Marque":"KAWASAKI",
+    "Modèle":"KLX 250S",
+    "Cylindrée (cc)":249,
+    "Type (M/S/E)":"M",
+    "Spéc/Génération":"Version routière / touring légère (carénage / pare‑brise)",
+    "Coloris commercial":"Lime Green / Blanc",
+    "Année début":1997,
+    "Année fin":2017
+  },
+  {
+    "Marque":"KAWASAKI",
+    "Modèle":"KLX 300R",
+    "Cylindrée (cc)":292,
+    "Type (M/S/E)":"M",
+    "Spéc/Génération":"Trail / Enduro 4T, injection EFI Euro4",
+    "Coloris commercial":"Lime Green / Noir",
+    "Année début":2013,
+    "Année fin":2026
+  },
+  {
+    "Marque":"KAWASAKI",
+    "Modèle":"KLX 450R",
+    "Cylindrée (cc)":449,
+    "Type (M/S/E)":"M",
+    "Spéc/Génération":"Enduro / Off‑Road 4T, injection EFI Euro4",
+    "Coloris commercial":"Lime Green / Noir",
+    "Année début":2012,
+    "Année fin":2026
+  },
+  {
+    "Marque":"KAWASAKI",
+    "Modèle":"VN 750",
+    "Cylindrée (cc)":749,
+    "Type (M/S/E)":"M",
+    "Spéc/Génération":"Cruiser standard bicylindre en V",
+    "Coloris commercial":"Standard",
+    "Année début":1986,
+    "Année fin":1995
+  },
+  {
+    "Marque":"KAWASAKI",
+    "Modèle":"VN 800",
+    "Cylindrée (cc)":805,
+    "Type (M/S/E)":"M",
+    "Spéc/Génération":"Cruiser bicylindre en V, cadre traditionnel",
+    "Coloris commercial":"Standard / Classic / Drifter",
+    "Année début":1995,
+    "Année fin":2005
+  },
+  {
+    "Marque":"KAWASAKI",
+    "Modèle":"VN 900 Vulcan",
+    "Cylindrée (cc)":903,
+    "Type (M/S/E)":"M",
+    "Spéc/Génération":"Cruiser bicylindre en V avec injection EFI",
+    "Coloris commercial":"Classic / Custom / Light Tourer",
+    "Année début":2006,
+    "Année fin":2017
+  },
+  {
+    "Marque":"KAWASAKI",
+    "Modèle":"VN 1500",
+    "Cylindrée (cc)":1470,
+    "Type (M/S/E)":"M",
+    "Spéc/Génération":"Cruiser V‑Twin grande cylindrée",
+    "Coloris commercial":"Classic / Mean Streak / Tourer",
+    "Année début":1996,
+    "Année fin":2003
+  },
+  {
+    "Marque":"KAWASAKI",
+    "Modèle":"VN 1600",
+    "Cylindrée (cc)":1552,
+    "Type (M/S/E)":"M",
+    "Spéc/Génération":"Cruiser grande cylindrée V‑Twin (successeur 1500)",
+    "Coloris commercial":"Classic / Mean Streak / Tourer",
+    "Année début":2003,
+    "Année fin":2008
+  },
+  {
+    "Marque":"KAWASAKI",
+    "Modèle":"VN 1700",
+    "Cylindrée (cc)":1700,
+    "Type (M/S/E)":"M",
+    "Spéc/Génération":"Grand cruiser / touring V‑Twin",
+    "Coloris commercial":"Classic / Classic Tourer / Voyager / Nomad / Vaquero",
+    "Année début":2009,
+    "Année fin":2018
+  },
+  {
+    "Marque":"KAWASAKI",
+    "Modèle":"VN 2000",
+    "Cylindrée (cc)":2053,
+    "Type (M/S/E)":"M",
+    "Spéc/Génération":"Cruiser très grande cylindrée",
+    "Coloris commercial":"Classic / Touring",
+    "Année début":2004,
+    "Année fin":2010
+  },
+  {
+    "Marque":"KAWASAKI",
+    "Modèle":"KMX 125",
+    "Cylindrée (cc)":124.6,
+    "Type (M/S/E)":"M",
+    "Spéc/Génération":"Génération classique 2T enduro/motocross",
+    "Coloris commercial":"Standard",
+    "Année début":1986,
+    "Année fin":1987
+  },
+  {
+    "Marque":"KAWASAKI",
+    "Modèle":"KMX 125",
+    "Cylindrée (cc)":124.6,
+    "Type (M/S/E)":"M",
+    "Spéc/Génération":"Génération classique 2T enduro/motocross",
+    "Coloris commercial":"Standard",
+    "Année début":1988,
+    "Année fin":1989
+  },
+  {
+    "Marque":"KAWASAKI",
+    "Modèle":"KMX 125",
+    "Cylindrée (cc)":124.6,
+    "Type (M/S/E)":"M",
+    "Spéc/Génération":"Génération 1990‑93 2T enduro/motocross",
+    "Coloris commercial":"Standard",
+    "Année début":1990,
+    "Année fin":1993
+  },
+  {
+    "Marque":"KAWASAKI",
+    "Modèle":"KMX 125",
+    "Cylindrée (cc)":124.6,
+    "Type (M/S/E)":"M",
+    "Spéc/Génération":"Génération 1994‑96 2T enduro/motocross",
+    "Coloris commercial":"Standard",
+    "Année début":1994,
+    "Année fin":1996
+  },
+  {
+    "Marque":"KAWASAKI",
+    "Modèle":"KMX 125",
+    "Cylindrée (cc)":124.6,
+    "Type (M/S/E)":"M",
+    "Spéc/Génération":"Derniers millésimes 1997‑2004 2T",
+    "Coloris commercial":"Standard",
+    "Année début":1997,
+    "Année fin":2004
+  },
+  {
+    "Marque":"KAWASAKI",
+    "Modèle":"KMX 200",
+    "Cylindrée (cc)":189,
+    "Type (M/S/E)":"M",
+    "Spéc/Génération":"Version 200 cc 2T enduro/motocross",
+    "Coloris commercial":"Standard",
+    "Année début":1988,
+    "Année fin":1989
+  },
+  {
+    "Marque":"KAWASAKI",
+    "Modèle":"KLE 500",
+    "Cylindrée (cc)":498,
+    "Type (M/S/E)":"M",
+    "Spéc/Génération":"Première génération trail classique 2 ACT bicylindre liquide carburateurs",
+    "Coloris commercial":"Standard",
+    "Année début":1991,
+    "Année fin":1995
+  },
+  {
+    "Marque":"KAWASAKI",
+    "Modèle":"KLE 500",
+    "Cylindrée (cc)":498,
+    "Type (M/S/E)":"M",
+    "Spéc/Génération":"KLE 500 evolution (carburation ajustée)",
+    "Coloris commercial":"Standard",
+    "Année début":1996,
+    "Année fin":1999
+  },
+  {
+    "Marque":"KAWASAKI",
+    "Modèle":"KLE 500",
+    "Cylindrée (cc)":498,
+    "Type (M/S/E)":"M",
+    "Spéc/Génération":"KLE 500 fin de série",
+    "Coloris commercial":"Standard",
+    "Année début":2000,
+    "Année fin":2004
+  },
+  {
+    "Marque":"KAWASAKI",
+    "Modèle":"KLE 500",
+    "Cylindrée (cc)":498,
+    "Type (M/S/E)":"M",
+    "Spéc/Génération":"KLE 500 dernière mouture avant arrêt production",
+    "Coloris commercial":"Standard",
+    "Année début":2005,
+    "Année fin":2007
+  },
+  {
+    "Marque":"KAWASAKI",
+    "Modèle":"KLE 500 Adventure",
+    "Cylindrée (cc)":451,
+    "Type (M/S/E)":"M",
+    "Spéc/Génération":"Nouvelle génération Adventure bicylindre injection EFI Euro5",
+    "Coloris commercial":"Vert Rallye / Gris / Noir",
+    "Année début":2026,
+    "Année fin":2026
+  },
+  {
+    "Marque":"KYMCO",
+    "Modèle":"X‑Town 125 CBS Euro4",
+    "Cylindrée (cc)":124.8,
+    "Type (M/S/E)":"S",
+    "Spéc/Génération":"Scooter GT 125 CBS, injection électronique, Euro4",
+    "Coloris commercial":"Standard",
+    "Année début":2016,
+    "Année fin":2019
+  },
+  {
+    "Marque":"KYMCO",
+    "Modèle":"X‑Town 125 Exclusive CBS Euro4",
+    "Cylindrée (cc)":124.8,
+    "Type (M/S/E)":"S",
+    "Spéc/Génération":"Scooter GT 125 Exclusive CBS, injection électronique, Euro4",
+    "Coloris commercial":"Standard / Édition exclusive",
+    "Année début":2017,
+    "Année fin":2020
+  },
+  {
+    "Marque":"KYMCO",
+    "Modèle":"X‑Town 125 City CBS Euro5",
+    "Cylindrée (cc)":124.8,
+    "Type (M/S/E)":"S",
+    "Spéc/Génération":"Scooter GT 125 City CBS, injection EFI, Euro5",
+    "Coloris commercial":"Standard",
+    "Année début":2021,
+    "Année fin":2026
+  },
+  {
+    "Marque":"KYMCO",
+    "Modèle":"X‑Town 300i ABS Euro4",
+    "Cylindrée (cc)":276,
+    "Type (M/S/E)":"S",
+    "Spéc/Génération":"Scooter GT 300 ABS, injection EFI, Euro4",
+    "Coloris commercial":"Standard",
+    "Année début":2016,
+    "Année fin":2019
+  },
+  {
+    "Marque":"KYMCO",
+    "Modèle":"X‑Town 300i ABS Euro5",
+    "Cylindrée (cc)":276,
+    "Type (M/S/E)":"S",
+    "Spéc/Génération":"Scooter GT 300 ABS, injection EFI, Euro5",
+    "Coloris commercial":"Standard",
+    "Année début":2020,
+    "Année fin":2026
+  },
+  {
+    "Marque":"PIAGGIO",
+    "Modèle":"MP3 400 HPE",
+    "Cylindrée (cc)":399,
+    "Type (M/S/E)":"S",
+    "Spéc/Génération":"MP3 400 HPE injection EFI Euro5",
+    "Coloris commercial":"Standard",
+    "Année début":2021,
+    "Année fin":2021
+  },
+  {
+    "Marque":"PIAGGIO",
+    "Modèle":"MP3 400 HPE",
+    "Cylindrée (cc)":399,
+    "Type (M/S/E)":"S",
+    "Spéc/Génération":"MP3 400 HPE injection EFI Euro5",
+    "Coloris commercial":"Standard",
+    "Année début":2022,
+    "Année fin":2022
+  },
+  {
+    "Marque":"PIAGGIO",
+    "Modèle":"MP3 400 HPE",
+    "Cylindrée (cc)":399,
+    "Type (M/S/E)":"S",
+    "Spéc/Génération":"MP3 400 HPE injection EFI Euro5 + écrans LED/TFT",
+    "Coloris commercial":"Standard",
+    "Année début":2023,
+    "Année fin":2023
+  },
+  {
+    "Marque":"PIAGGIO",
+    "Modèle":"MP3 400 HPE",
+    "Cylindrée (cc)":399,
+    "Type (M/S/E)":"S",
+    "Spéc/Génération":"MP3 400 HPE Euro5 restylé / équipement complet",
+    "Coloris commercial":"Standard",
+    "Année début":2024,
+    "Année fin":2024
+  },
+  {
+    "Marque":"PIAGGIO",
+    "Modèle":"MP3 400 HPE",
+    "Cylindrée (cc)":399,
+    "Type (M/S/E)":"S",
+    "Spéc/Génération":"MP3 400 HPE Euro5 avec tableau TFT et LED",
+    "Coloris commercial":"Standard",
+    "Année début":2025,
+    "Année fin":2025
+  },
+  {
+    "Marque":"PIAGGIO",
+    "Modèle":"MP3 400 HPE",
+    "Cylindrée (cc)":399,
+    "Type (M/S/E)":"S",
+    "Spéc/Génération":"MP3 400 HPE Nouvelle génération Euro5 + techno connectée",
+    "Coloris commercial":"Standard",
+    "Année début":2026,
+    "Année fin":2026
+  },
+  {
+    "Marque":"SUZUKI",
+    "Modèle":"GSX‑S 950 R Limited Edition",
+    "Cylindrée (cc)":999,
+    "Type (M/S/E)":"M",
+    "Spéc/Génération":"Édition limitée spéciale R Design (50 exemplaires)",
+    "Coloris commercial":"Silver/Black/Gold R Design",
+    "Année début":2022,
+    "Année fin":2022
+  },
+  {
+    "Marque":"SUZUKI",
+    "Modèle":"GSX‑S 125 ABS",
+    "Cylindrée (cc)":124,
+    "Type (M/S/E)":"M",
+    "Spéc/Génération":"Roadster 125 ABS – Injection EFI Euro4/Euro5",
+    "Coloris commercial":"Various",
+    "Année début":2017,
+    "Année fin":2026
+  },
+  {
+    "Marque":"SUZUKI",
+    "Modèle":"GSX‑S 750",
+    "Cylindrée (cc)":749,
+    "Type (M/S/E)":"M",
+    "Spéc/Génération":"Roadster 750 – Injection EFI Euro4 → Euro5",
+    "Coloris commercial":"Pearl Glacier White, Metallic Triton Blue, Black",
+    "Année début":2015,
+    "Année fin":2026
+  },
+  {
+    "Marque":"SUZUKI",
+    "Modèle":"GSX‑S 1000",
+    "Cylindrée (cc)":999,
+    "Type (M/S/E)":"M",
+    "Spéc/Génération":"Roadster 1000 – Injection EFI / ABS Euro4 → Euro5",
+    "Coloris commercial":"Metallic Matte Sword Silver, Black, etc.",
+    "Année début":2015,
+    "Année fin":2026
+  },
+  {
+    "Marque":"SUZUKI",
+    "Modèle":"GSX‑S 1000 GT",
+    "Cylindrée (cc)":999,
+    "Type (M/S/E)":"S",
+    "Spéc/Génération":"Sport‑Touring version 1000 GT – Inject EFI / ABS / Carénage Touring",
+    "Coloris commercial":"Candy Daring Red, Pearl Vigor Blue, Metallic Oort Gray",
+    "Année début":2016,
+    "Année fin":2026
+  },
+  {
+    "Marque":"SUZUKI",
+    "Modèle":"GSX‑S 1000 GX",
+    "Cylindrée (cc)":999,
+    "Type (M/S/E)":"M",
+    "Spéc/Génération":"Crossover Adventure 1000 GX – système électronique avancé",
+    "Coloris commercial":"Metallic Triton Blue, Black, Matt Shadow Green",
+    "Année début":2023,
+    "Année fin":2026
+  },
+  {
+    "Marque":"SUZUKI",
+    "Modèle":"Gladius 650 SFV",
+    "Cylindrée (cc)":645,
+    "Type (M/S/E)":"M",
+    "Spéc/Génération":"Première génération sans ABS / injection EFI",
+    "Coloris commercial":"Standard / Bronze / Noir / Bicolore",
+    "Année début":2009,
+    "Année fin":2012
+  },
+  {
+    "Marque":"SUZUKI",
+    "Modèle":"Gladius 650 SFV ABS",
+    "Cylindrée (cc)":645,
+    "Type (M/S/E)":"M",
+    "Spéc/Génération":"Version avec ABS optionnel / légère révision suspension",
+    "Coloris commercial":"Standard / Bleu/Blanc / Noir",
+    "Année début":2013,
+    "Année fin":2016
+  },
+  {
+    "Marque":"SUZUKI",
+    "Modèle":"GSX 750 Inazuma",
+    "Cylindrée (cc)":750,
+    "Type (M/S/E)":"M",
+    "Spéc/Génération":"Roadster classique 4‑cylindres air/huile",
+    "Coloris commercial":"Noir, Bleu/Grey, Maroon",
+    "Année début":1997,
+    "Année fin":2003
+  },
+  { 
+    "Marque":"SUZUKI",
+    "Modèle":"Inazuma 400",
+    "Cylindrée (cc)":399,
+    "Type (M/S/E)":"M",
+    "Spéc/Génération":"Naked / Four 4‑cylindres carburation",
+    "Coloris commercial":"Standard",
+    "Année début":1997,
+    "Année fin":2001
+  },
+  { 
+    "Marque":"SUZUKI",
+    "Modèle":"GW 250 Inazuma",
+    "Cylindrée (cc)":248,
+    "Type (M/S/E)":"M",
+    "Spéc/Génération":"Roadster injection électronique EFI",
+    "Coloris commercial":"Standard / Dual exhaust",
+    "Année début":2012,
+    "Année fin":2016
+  },
+  { 
+    "Marque":"SUZUKI",
+    "Modèle":"Inazuma 250F",
+    "Cylindrée (cc)":248,
+    "Type (M/S/E)":"S",
+    "Spéc/Génération":"Sport / Carénage intégral (Faired)",
+    "Coloris commercial":"Standard",
+    "Année début":2014,
+    "Année fin":2016
+  },
+  {
+    "Marque":"TM",
+    "Modèle":"EN 125 ES Fi",
+    "Cylindrée (cc)":124.8,
+    "Type (M/S/E)":"M",
+    "Spéc/Génération":"Enduro 2T avec injection électronique (Euro5)",
+    "Coloris commercial":"Quantum Grey / Black Dream / White",
+    "Année début":2023,
+    "Année fin":2026
+  },
+  {
+    "Marque":"TM",
+    "Modèle":"EN 250 ES Fi 2T",
+    "Cylindrée (cc)":249.5,
+    "Type (M/S/E)":"M",
+    "Spéc/Génération":"Enduro 2T injection elektronische « Esport »",
+    "Coloris commercial":"Quantum Grey / Corse Edition",
+    "Année début":2023,
+    "Année fin":2026
+  },
+  {
+    "Marque":"TM",
+    "Modèle":"EN 300 ES Fi 2T",
+    "Cylindrée (cc)":approx 300,
+    "Type (M/S/E)":"M",
+    "Spéc/Génération":"Enduro 2T avec injection moderne",
+    "Coloris commercial":"Quantum Grey / Corse Edition",
+    "Année début":2023,
+    "Année fin":2026
+  },
+  {
+    "Marque":"TM",
+    "Modèle":"EN 250 ES Fi 4T",
+    "Cylindrée (cc)":249.5,
+    "Type (M/S/E)":"M",
+    "Spéc/Génération":"Enduro 4T injection électronique",
+    "Coloris commercial":"Quantum Grey",
+    "Année début":2023,
+    "Année fin":2026
+  },
+  {
+    "Marque":"TM",
+    "Modèle":"EN 300 ES Fi 4T",
+    "Cylindrée (cc)":approx 300,
+    "Type (M/S/E)":"M",
+    "Spéc/Génération":"Enduro 4T avec EFI",
+    "Coloris commercial":"Quantum Grey",
+    "Année début":2023,
+    "Année fin":2026
+  },
+  {
+    "Marque":"TM",
+    "Modèle":"EN 450 ES Fi 4T",
+    "Cylindrée (cc)":450,
+    "Type (M/S/E)":"M",
+    "Spéc/Génération":"Enduro 4T injection électronique",
+    "Coloris commercial":"Quantum Grey / Corse Edition",
+    "Année début":2023,
+    "Année fin":2026
+  },
+  {
+    "Marque":"TM",
+    "Modèle":"EN 530 ES Fi 4T",
+    "Cylindrée (cc)":530,
+    "Type (M/S/E)":"M",
+    "Spéc/Génération":"Enduro 4T grande cylindrée FI",
+    "Coloris commercial":"Quantum Grey / Corse Edition",
+    "Année début":2023,
+    "Année fin":2026
+  },
+  {
+    "Marque":"TM",
+    "Modèle":"MX 125 ES Fi 2T",
+    "Cylindrée (cc)":124.8,
+    "Type (M/S/E)":"M",
+    "Spéc/Génération":"Motocross 2T avec injection électronique",
+    "Coloris commercial":"Quantum Grey / Corse Edition",
+    "Année début":2023,
+    "Année fin":2026
+  },
+  {
+    "Marque":"TM",
+    "Modèle":"MX 250 ES Fi 4T",
+    "Cylindrée (cc)":249.5,
+    "Type (M/S/E)":"M",
+    "Spéc/Génération":"Motocross 4T EFI",
+    "Coloris commercial":"Quantum Grey / Corse Edition",
+    "Année début":2023,
+    "Année fin":2026
+  },
+  {
+    "Marque":"TM",
+    "Modèle":"MX 300 ES Fi 4T",
+    "Cylindrée (cc)":approx 300,
+    "Type (M/S/E)":"M",
+    "Spéc/Génération":"Motocross 4T avec EFI",
+    "Coloris commercial":"Quantum Grey / Corse Edition",
+    "Année début":2023,
+    "Année fin":2026
+  },
+  {
+    "Marque":"TM",
+    "Modèle":"MX 450 ES Fi 4T",
+    "Cylindrée (cc)":450,
+    "Type (M/S/E)":"M",
+    "Spéc/Génération":"Motocross 4T injection EFI",
+    "Coloris commercial":"Quantum Grey / Corse Edition",
+    "Année début":2023,
+    "Année fin":2026
+  },
+  {
+    "Marque":"TM",
+    "Modèle":"SMR 125 ES Fi 2T",
+    "Cylindrée (cc)":124.8,
+    "Type (M/S/E)":"M",
+    "Spéc/Génération":"Supermotard 2T avec EFI",
+    "Coloris commercial":"Quantum Grey / Corse Edition",
+    "Année début":2023,
+    "Année fin":2026
+  },
+  {
+    "Marque":"TM",
+    "Modèle":"SMR 450 ES Fi 4T",
+    "Cylindrée (cc)":450,
+    "Type (M/S/E)":"M",
+    "Spéc/Génération":"Supermotard 4T EFI",
+    "Coloris commercial":"Quantum Grey / Corse Edition",
+    "Année début":2023,
+    "Année fin":2026
+  },
+  {
+    "Marque":"TRIUMPH",
+    "Modèle":"Tiger 660",
+    "Cylindrée (cc)":660,
+    "Type (M/S/E)":"M",
+    "Spéc/Génération":"Tiger Sport 660 / Adventure Sport 660 Euro5",
+    "Coloris commercial":"Multiple (Noir, Argent, Orange, etc.)",
+    "Année début":2022,
+    "Année fin":2026
+  },
+  {
+    "Marque":"TRIUMPH",
+    "Modèle":"Tiger 800",
+    "Cylindrée (cc)":799,
+    "Type (M/S/E)":"M",
+    "Spéc/Génération":"Tiger 800 / Tiger 800 XC / XR / XCX",
+    "Coloris commercial":"Phantom Black, Crystal White, Venom Yellow",
+    "Année début":2010,
+    "Année fin":2023
+  },
+  {
+    "Marque":"TRIUMPH",
+    "Modèle":"Tiger 900",
+    "Cylindrée (cc)":888,
+    "Type (M/S/E)":"M",
+    "Spéc/Génération":"Tiger 900 GT / GT Pro / Rally / Rally Pro",
+    "Coloris commercial":"Various Performance & Rally Schemes",
+    "Année début":2020,
+    "Année fin":2026
+  },
+  {
+    "Marque":"TRIUMPH",
+    "Modèle":"Tiger 900 Alpine Edition",
+    "Cylindrée (cc)":888,
+    "Type (M/S/E)":"M",
+    "Spéc/Génération":"Tiger 900 Alpine Edition spéciale",
+    "Coloris commercial":"Snowdonia White & Sapphire Black Accents",
+    "Année début":2026,
+    "Année fin":2026
+  },
+  {
+    "Marque":"TRIUMPH",
+    "Modèle":"Tiger 900 Desert Edition",
+    "Cylindrée (cc)":888,
+    "Type (M/S/E)":"M",
+    "Spéc/Génération":"Tiger 900 Desert Edition spéciale",
+    "Coloris commercial":"Urban Grey & Baja Orange Accents",
+    "Année début":2026,
+    "Année fin":2026
+  },
+  {
+    "Marque":"TRIUMPH",
+    "Modèle":"Tiger 1200",
+    "Cylindrée (cc)":1215,
+    "Type (M/S/E)":"M",
+    "Spéc/Génération":"Tiger 1200 GT / GT Pro / Rally Pro / Alpine / Desert",
+    "Coloris commercial":"Multiple Adventure Schemes",
+    "Année début":2018,
+    "Année fin":2026
+  },
+  {
+    "Marque":"VOGE",
+    "Modèle":"500 R",
+    "Cylindrée (cc)":471,
+    "Type (M/S/E)":"M",
+    "Spéc/Génération":"Roadster / Naked 500 R Euro5",
+    "Coloris commercial":"Noir / Titane / Rouge",
+    "Année début":2019,
+    "Année fin":2026
+  },
+  {
+    "Marque":"VOGE",
+    "Modèle":"500 AC",
+    "Cylindrée (cc)":471,
+    "Type (M/S/E)":"M",
+    "Spéc/Génération":"Néo‑rétro 500 AC (style classique moderne)",
+    "Coloris commercial":"Chromé / Noir",
+    "Année début":2021,
+    "Année fin":2026
+  },
+  {
+    "Marque":"VOGE",
+    "Modèle":"500 DS",
+    "Cylindrée (cc)":471,
+    "Type (M/S/E)":"M",
+    "Spéc/Génération":"Trail routier 500 DS / DSX",
+    "Coloris commercial":"Multicolore routier",
+    "Année début":2020,
+    "Année fin":2026
+  },
+  { 
+    "Marque":"YAMAHA", 
+    "Modèle":"XJ 400", 
+    "Cylindrée (cc)":400, 
+    "Type (M/S/E)":"S", 
+    "Spéc/Génération":"Première génération - Air Cooled / Carburateur", 
+    "Coloris commercial":"Mat Gray", 
+    "Année début":1980, 
+    "Année fin":1985 
+  },
+  { 
+    "Marque":"YAMAHA", 
+    "Modèle":"XJ 400", 
+    "Cylindrée (cc)":400, 
+    "Type (M/S/E)":"S", 
+    "Spéc/Génération":"Injection EFI / Cadre acier", 
+    "Coloris commercial":"Tech Black", 
+    "Année début":1986, 
+    "Année fin":1990 
+  },
+
+  { 
+    "Marque":"YAMAHA", 
+    "Modèle":"XJ 600", 
+    "Cylindrée (cc)":600, 
+    "Type (M/S/E)":"S", 
+    "Spéc/Génération":"Première génération - Carburateur / Air Cooled", 
+    "Coloris commercial":"Mat Gray", 
+    "Année début":1982, 
+    "Année fin":1990 
+  },
+  { 
+    "Marque":"YAMAHA", 
+    "Modèle":"XJ 600 S", 
+    "Cylindrée (cc)":600, 
+    "Type (M/S/E)":"S", 
+    "Spéc/Génération":"Injection EFI / Cadre aluminium / Restylage phares", 
+    "Coloris commercial":"Tech Black", 
+    "Année début":1991, 
+    "Année fin":1998 
+  },
+
+  { 
+    "Marque":"YAMAHA", 
+    "Modèle":"XJ 900", 
+    "Cylindrée (cc)":900, 
+    "Type (M/S/E)":"S", 
+    "Spéc/Génération":"Première génération - Carburateur / Air Cooled", 
+    "Coloris commercial":"Mat Gray", 
+    "Année début":1983, 
+    "Année fin":1988 
+  },
+  { 
+    "Marque":"YAMAHA", 
+    "Modèle":"XJ 900 SP", 
+    "Cylindrée (cc)":900, 
+    "Type (M/S/E)":"S", 
+    "Spéc/Génération":"Injection EFI / Cadre aluminium / Restylage carénage", 
+    "Coloris commercial":"Icon Blue", 
+    "Année début":1989, 
+    "Année fin":1995 
+  },
+
+  { 
+    "Marque":"YAMAHA", 
+    "Modèle":"XJ 1200 / XJ 1300", 
+    "Cylindrée (cc)":1200, 
+    "Type (M/S/E)":"S", 
+    "Spéc/Génération":"Injection EFI / Cadre aluminium / ABS optionnel", 
+    "Coloris commercial":"Tech Black", 
+    "Année début":1996, 
+    "Année fin":2005 
+  },
+  { 
+    "Marque":"YAMAHA", 
+    "Modèle":"XTZ 125", 
+    "Cylindrée (cc)":125, 
+    "Type (M/S/E)":"M", 
+    "Spéc/Génération":"Première génération - Carburateur / Cadre acier", 
+    "Coloris commercial":"Yellow/White", 
+    "Année début":1989, 
+    "Année fin":1996 
+  },
+  { 
+    "Marque":"YAMAHA", 
+    "Modèle":"XTZ 125", 
+    "Cylindrée (cc)":125, 
+    "Type (M/S/E)":"M", 
+    "Spéc/Génération":"Injection EFI - Cadre aluminium", 
+    "Coloris commercial":"Team Yamaha Blue", 
+    "Année début":1997, 
+    "Année fin":2005 
+  },
+  { 
+    "Marque":"YAMAHA", 
+    "Modèle":"XTZ 125", 
+    "Cylindrée (cc)":125, 
+    "Type (M/S/E)":"M", 
+    "Spéc/Génération":"Restylage tableau de bord / Suspension KYB", 
+    "Coloris commercial":"Icon Blue", 
+    "Année début":2006, 
+    "Année fin":2026 
+  },
+
+  { 
+    "Marque":"YAMAHA", 
+    "Modèle":"XTZ 250", 
+    "Cylindrée (cc)":250, 
+    "Type (M/S/E)":"M", 
+    "Spéc/Génération":"Air Cooled - Carburateur / Cadre acier", 
+    "Coloris commercial":"Mat Gray", 
+    "Année début":1985, 
+    "Année fin":1995 
+  },
+  { 
+    "Marque":"YAMAHA", 
+    "Modèle":"XTZ 250", 
+    "Cylindrée (cc)":250, 
+    "Type (M/S/E)":"M", 
+    "Spéc/Génération":"Liquid Cooled - Injection EFI / Cadre aluminium", 
+    "Coloris commercial":"Team Yamaha Blue", 
+    "Année début":1996, 
+    "Année fin":2005 
+  },
+  { 
+    "Marque":"YAMAHA", 
+    "Modèle":"XTZ 250", 
+    "Cylindrée (cc)":250, 
+    "Type (M/S/E)":"M", 
+    "Spéc/Génération":"Tableau de bord LCD / Suspension avant inversée", 
+    "Coloris commercial":"Icon Blue", 
+    "Année début":2006, 
+    "Année fin":2026 
+  },
+
+  { 
+    "Marque":"YAMAHA", 
+    "Modèle":"XTZ 660", 
+    "Cylindrée (cc)":660, 
+    "Type (M/S/E)":"M", 
+    "Spéc/Génération":"Première génération - Carburateur / Cadre acier", 
+    "Coloris commercial":"Tech Black", 
+    "Année début":1991, 
+    "Année fin":1999 
+  },
+  { 
+    "Marque":"YAMAHA", 
+    "Modèle":"XTZ 660", 
+    "Cylindrée (cc)":660, 
+    "Type (M/S/E)":"M", 
+    "Spéc/Génération":"Injection EFI - Cadre aluminium / Fourche inversée", 
+    "Coloris commercial":"Icon Blue", 
+    "Année début":2000, 
+    "Année fin":2007 
+  },
+  { 
+    "Marque":"YAMAHA", 
+    "Modèle":"XTZ 660", 
+    "Cylindrée (cc)":660, 
+    "Type (M/S/E)":"M", 
+    "Spéc/Génération":"ABS / Tableau de bord LCD / Carénage Rallye", 
+    "Coloris commercial":"Racing Blue", 
+    "Année début":2008, 
+    "Année fin":2026 
+  },
+  { 
+    "Marque":"YAMAHA", 
+    "Modèle":"TZR 50", 
+    "Cylindrée (cc)":50, 
+    "Type (M/S/E)":"S", 
+    "Spéc/Génération":"Première génération - Carburateur / Cadre acier", 
+    "Coloris commercial":"Mat Gray", 
+    "Année début":1987, 
+    "Année fin":1994 
+  },
+  { 
+    "Marque":"YAMAHA", 
+    "Modèle":"TZR 50", 
+    "Cylindrée (cc)":50, 
+    "Type (M/S/E)":"S", 
+    "Spéc/Génération":"Cadre aluminium - Carburateur Keihin", 
+    "Coloris commercial":"Tech Black", 
+    "Année début":1995, 
+    "Année fin":2000 
+  },
+
+  { 
+    "Marque":"YAMAHA", 
+    "Modèle":"TZR 125", 
+    "Cylindrée (cc)":125, 
+    "Type (M/S/E)":"S", 
+    "Spéc/Génération":"Première génération - Carburateur / Cadre acier", 
+    "Coloris commercial":"Mat Gray", 
+    "Année début":1987, 
+    "Année fin":1992 
+  },
+  { 
+    "Marque":"YAMAHA", 
+    "Modèle":"TZR 125", 
+    "Cylindrée (cc)":125, 
+    "Type (M/S/E)":"S", 
+    "Spéc/Génération":"Cadre aluminium - Carburateur Keihin", 
+    "Coloris commercial":"Tech Black", 
+    "Année début":1993, 
+    "Année fin":1996 
+  },
+  { 
+    "Marque":"YAMAHA", 
+    "Modèle":"TZR 125 SP", 
+    "Cylindrée (cc)":125, 
+    "Type (M/S/E)":"S", 
+    "Spéc/Génération":"Édition sportive SP - Carrosserie racing", 
+    "Coloris commercial":"Racing Blue", 
+    "Année début":1997, 
+    "Année fin":2001 
+  },
+  { 
+    "Marque":"YAMAHA", 
+    "Modèle":"TZR 125 R", 
+    "Cylindrée (cc)":125, 
+    "Type (M/S/E)":"S", 
+    "Spéc/Génération":"Édition racing R - Cadre Deltabox / Frein à disque", 
+    "Coloris commercial":"Icon Blue", 
+    "Année début":2002, 
+    "Année fin":2007 
+  },
+  { 
+    "Marque":"YAMAHA", 
+    "Modèle":"Fazer 600", 
+    "Cylindrée (cc)":600, 
+    "Type (M/S/E)":"S", 
+    "Spéc/Génération":"Première génération - Injection EFI / Cadre acier", 
+    "Coloris commercial":"Mat Gray", 
+    "Année début":1998, 
+    "Année fin":2003 
+  },
+  { 
+    "Marque":"YAMAHA", 
+    "Modèle":"Fazer 600", 
+    "Cylindrée (cc)":600, 
+    "Type (M/S/E)":"S", 
+    "Spéc/Génération":"Cadre aluminium / Restylage phares / Injection EFI", 
+    "Coloris commercial":"Tech Black", 
+    "Année début":2004, 
+    "Année fin":2008 
+  },
+  { 
+    "Marque":"YAMAHA", 
+    "Modèle":"Fazer 600 S", 
+    "Cylindrée (cc)":600, 
+    "Type (M/S/E)":"S", 
+    "Spéc/Génération":"Version sport / ABS / Fourche inversée", 
+    "Coloris commercial":"Icon Blue", 
+    "Année début":2009, 
+    "Année fin":2012 
+  },
+  { 
+    "Marque":"YAMAHA", 
+    "Modèle":"FZ6 Fazer", 
+    "Cylindrée (cc)":600, 
+    "Type (M/S/E)":"S", 
+    "Spéc/Génération":"Restylage / ABS / Tableau de bord LCD", 
+    "Coloris commercial":"Phantom Gray", 
+    "Année début":2013, 
+    "Année fin":2016 
+  },
+
+  { 
+    "Marque":"YAMAHA", 
+    "Modèle":"Fazer 1000 / FZ1 Fazer", 
+    "Cylindrée (cc)":998, 
+    "Type (M/S/E)":"S", 
+    "Spéc/Génération":"Première génération - Injection EFI / Cadre aluminium", 
+    "Coloris commercial":"Tech Black", 
+    "Année début":2001, 
+    "Année fin":2005 
+  },
+  { 
+    "Marque":"YAMAHA", 
+    "Modèle":"Fazer 1000 / FZ1 Fazer", 
+    "Cylindrée (cc)":998, 
+    "Type (M/S/E)":"S", 
+    "Spéc/Génération":"Restylage / ABS / Fourche inversée / Tableau de bord LCD", 
+    "Coloris commercial":"Icon Blue", 
+    "Année début":2006, 
+    "Année fin":2015 
+  },
+  { 
+    "Marque":"YAMAHA", 
+    "Modèle":"FZ1 Fazer SP", 
+    "Cylindrée (cc)":998, 
+    "Type (M/S/E)":"S", 
+    "Spéc/Génération":"Version sportive SP / ABS / Suspensions réglables", 
+    "Coloris commercial":"Racing Blue", 
+    "Année début":2016, 
+    "Année fin":2026 
+  },
+  { 
+    "Marque":"YAMAHA", 
+    "Modèle":"Majesty 125", 
+    "Cylindrée (cc)":125, 
+    "Type (M/S/E)":"S", 
+    "Spéc/Génération":"Première génération - Carburateur / cadre acier", 
+    "Coloris commercial":"Mat Gray", 
+    "Année début":1996, 
+    "Année fin":2002 
+  },
+  { 
+    "Marque":"YAMAHA", 
+    "Modèle":"Majesty 125", 
+    "Cylindrée (cc)":125, 
+    "Type (M/S/E)":"S", 
+    "Spéc/Génération":"Injection EFI - Cadre aluminium", 
+    "Coloris commercial":"Tech Black", 
+    "Année début":2003, 
+    "Année fin":2013 
+  },
+  { 
+    "Marque":"YAMAHA", 
+    "Modèle":"Majesty 125", 
+    "Cylindrée (cc)":125, 
+    "Type (M/S/E)":"S", 
+    "Spéc/Génération":"Restylage tableau de bord LCD / ABS optionnel", 
+    "Coloris commercial":"Icon Blue", 
+    "Année début":2014, 
+    "Année fin":2026 
+  },
+
+  { 
+    "Marque":"YAMAHA", 
+    "Modèle":"Majesty 400", 
+    "Cylindrée (cc)":400, 
+    "Type (M/S/E)":"S", 
+    "Spéc/Génération":"Première génération - Carburateur / cadre acier", 
+    "Coloris commercial":"Pearl White", 
+    "Année début":1999, 
+    "Année fin":2006 
+  },
+  { 
+    "Marque":"YAMAHA", 
+    "Modèle":"Majesty 400", 
+    "Cylindrée (cc)":400, 
+    "Type (M/S/E)":"S", 
+    "Spéc/Génération":"Injection EFI - Cadre aluminium", 
+    "Coloris commercial":"Tech Black", 
+    "Année début":2007, 
+    "Année fin":2013 
+  },
+  { 
+    "Marque":"YAMAHA", 
+    "Modèle":"Majesty 400", 
+    "Cylindrée (cc)":400, 
+    "Type (M/S/E)":"S", 
+    "Spéc/Génération":"ABS + tableau de bord LCD / restylage carrosserie", 
+    "Coloris commercial":"Icon Blue", 
+    "Année début":2014, 
+    "Année fin":2026 
+  },
+  { 
+    "Marque":"YAMAHA", 
+    "Modèle":"MT-125", 
+    "Cylindrée (cc)":125, 
+    "Type (M/S/E)":"M", 
+    "Spéc/Génération":"Première génération - Air Cooled / Carburateur", 
+    "Coloris commercial":"Mat Gray", 
+    "Année début":2000, 
+    "Année fin":2013 
+  },
+  { 
+    "Marque":"YAMAHA", 
+    "Modèle":"MT-125", 
+    "Cylindrée (cc)":125, 
+    "Type (M/S/E)":"M", 
+    "Spéc/Génération":"Nouvelle génération - Liquid Cooled / EFI", 
+    "Coloris commercial":"Tech Black", 
+    "Année début":2014, 
+    "Année fin":2018 
+  },
+  { 
+    "Marque":"YAMAHA", 
+    "Modèle":"MT-125 SP", 
+    "Cylindrée (cc)":125, 
+    "Type (M/S/E)":"M", 
+    "Spéc/Génération":"Édition sportive - ABS / Fourche inversée", 
+    "Coloris commercial":"Icon Blue", 
+    "Année début":2016, 
+    "Année fin":2018 
+  },
+  { 
+    "Marque":"YAMAHA", 
+    "Modèle":"MT-125", 
+    "Cylindrée (cc)":125, 
+    "Type (M/S/E)":"M", 
+    "Spéc/Génération":"Restylage tableau de bord LCD / LED", 
+    "Coloris commercial":"Phantom Blue", 
+    "Année début":2019, 
+    "Année fin":2026 
+  },
   { 
     "Marque":"YAMAHA", 
     "Modèle":"DT 50", 
