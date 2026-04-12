@@ -16290,6 +16290,78 @@
     "Année fin": 2026
   },
   {
+    "Marque": "Yamaha",
+    "Modèle": "SR 125",
+    "Cylindrée (cc)": 125,
+    "Type (M/S/E)": "M",
+    "Spéc/Génération": "Roadster air cooled / Fourche télescopique / 1 cylindre SOHC",
+    "Année début": 1982,
+    "Année fin": 2003
+  },
+  {
+    "Marque": "Yamaha",
+    "Modèle": "YBR 125",
+    "Cylindrée (cc)": 125,
+    "Type (M/S/E)": "M",
+    "Spéc/Génération": "Routier urbain injection 4T / 1 cylindre SOHC / Euro3",
+    "Année début": 2005,
+    "Année fin": 2016
+  },
+  {
+    "Marque": "Yamaha",
+    "Modèle": "TW 125",
+    "Cylindrée (cc)": 125,
+    "Type (M/S/E)": "M",
+    "Spéc/Génération": "Trail custom gros pneus / air cooled / dérivé TW 200",
+    "Année début": 2000,
+    "Année fin": 2014
+  },
+  {
+    "Marque": "Yamaha",
+    "Modèle": "TTR 125",
+    "Cylindrée (cc)": 125,
+    "Type (M/S/E)": "M",
+    "Spéc/Génération": "Enduro loisir 4T / Trail débutants / air cooled kick start",
+    "Année début": 1999,
+    "Année fin": null
+  },
+  {
+    "Marque": "Yamaha",
+    "Modèle": "XVS 125 DragStar",
+    "Cylindrée (cc)": 125,
+    "Type (M/S/E)": "M",
+    "Spéc/Génération": "Custom cruiser 125cc V-twin / DragStar 125 / permis A1",
+    "Année début": 2000,
+    "Année fin": 2007
+  },
+  {
+    "Marque": "Yamaha",
+    "Modèle": "XV 125 S Virago",
+    "Cylindrée (cc)": 125,
+    "Type (M/S/E)": "M",
+    "Spéc/Génération": "Custom Virago 125cc / 2V OHC / permis A1",
+    "Année début": 1997,
+    "Année fin": 2001
+  },
+  {
+    "Marque": "Yamaha",
+    "Modèle": "FZS 600",
+    "Cylindrée (cc)": 600,
+    "Type (M/S/E)": "M",
+    "Spéc/Génération": "Alias FZS 600 Fazer / identique Fazer 600 / injection Mikuni",
+    "Année début": 1998,
+    "Année fin": 2008
+  },
+  {
+    "Marque": "Yamaha",
+    "Modèle": "FZS 1000",
+    "Cylindrée (cc)": 998,
+    "Type (M/S/E)": "M",
+    "Spéc/Génération": "Alias FZS 1000 Fazer / identique Fazer 1000 FZ1 / dérivé R1",
+    "Année début": 2001,
+    "Année fin": 2006
+  },
+  {
     "Marque": "Zero",
     "Modèle": "DS",
     "Cylindrée (cc)": null,
